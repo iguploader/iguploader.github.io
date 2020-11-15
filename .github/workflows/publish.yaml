@@ -22,7 +22,7 @@ jobs:
           # Don't forget to set the secret value in the project settings.
           #cname: www.dinnerguru.it # Or anything else
           # Use if you have a custom domain for your site.
-          branch: master # Or anything else
+          branch: gh-pages # Or anything else
           # Use if your site is not hosted on the gh-pages branch.
           repo: emmekappa/iguploader.github.io
           # Use if your pushing to a different repo.
