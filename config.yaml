@@ -95,12 +95,12 @@ params:
     - title: Easy to use
       text: Super simple UI
       icon: mobile-feed
-#  section3:
-#    title: One platform
+  section3:
+#    title: Screenshot
 #    subtitle: To rule them all
-#    image: screenshots/screenshot1.png
-#    buttonText: Get started
-#    buttonLink: "#"
+    image: screenshots/screenshot1.png
+    buttonText: Download
+    buttonLink: "https://github.com/emmekappa/iguploader/releases"
 #  section4:
 #    title: Our Clients love us!
 #    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
