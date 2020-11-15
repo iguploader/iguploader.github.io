@@ -2,7 +2,7 @@ baseURL: http://iguploader.github.io/
 languageCode: en-us
 title: IGUploader
 theme: hugo-fresh
-googleAnalytics: G-0VKZT1ZVR1
+googleAnalytics: UA-183035863-1
 # Disables warnings
 disableKinds:
 - taxonomy
