@@ -2,7 +2,7 @@ baseURL: http://iguploader.github.io/
 languageCode: en-us
 title: IGUploader
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: G-0VKZT1ZVR1
 # Disables warnings
 disableKinds:
 - taxonomy
