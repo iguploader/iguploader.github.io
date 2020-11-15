@@ -37,12 +37,12 @@ params:
 #    image: illustrations/worker.svg
     image: instagram.svg
     # Footer logos (from static/images/logos/clients/___.svg)
-    clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
+#    clientlogos:
+#    - systek
+#    - tribe
+#    - kromo
+#    - infinite
+#    - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
 #  - title: Features
